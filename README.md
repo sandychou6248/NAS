@@ -26,7 +26,7 @@ https://kb.synology.com/zh-hk/DSM/tutorial/How_to_access_files_on_Synology_NAS_w
 
 
 ## NAS外網連接
-使用http://140.113.228.124:5000即可從外部網路連線到NAS管理介面
+使用 http://140.113.228.124:5000 即可從外部網路連線到NAS管理介面
 
 
 ## NAS測速
