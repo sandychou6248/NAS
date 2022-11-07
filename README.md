@@ -31,5 +31,5 @@ Aimmlab NAS setting
 
 ## NAS測速
 * 使用Synology 上的Docker套件進行iperf的安裝後測速  
-參考網站：https://cleanshadow.blogspot.com/2017/01/nas.html  
+* 參考網站：https://cleanshadow.blogspot.com/2017/01/nas.html  
 
