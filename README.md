@@ -21,8 +21,8 @@ Aimmlab NAS setting
 
 
 ## Server設定
-https://kb.synology.com/zh-hk/DSM/tutorial/How_to_access_files_on_Synology_NAS_within_the_local_network_NFS#x_anchor_id7  
-* 依照上述指示安裝完後進入NAS的介面，將共用資料夾的NFS權限進行調整，目前是調整為將NFS權限統一歸類為guest，並以guest來進行資料夾讀寫權限的管理即可。
+* 依照參考網站指示安裝完後進入NAS的介面，將共用資料夾的NFS權限進行調整，目前是調整為將NFS權限統一歸類為guest，並以guest來進行資料夾讀寫權限的管理即可。  
+* https://kb.synology.com/zh-hk/DSM/tutorial/How_to_access_files_on_Synology_NAS_within_the_local_network_NFS#x_anchor_id7  
 
 
 ## NAS外網連接
@@ -30,6 +30,6 @@ https://kb.synology.com/zh-hk/DSM/tutorial/How_to_access_files_on_Synology_NAS_w
 
 
 ## NAS測速
+* 使用Synology 上的Docker套件進行iperf的安裝後測速  
 參考網站：https://cleanshadow.blogspot.com/2017/01/nas.html  
-* 使用Synology 上的Docker套件進行iperf的安裝後測速
 
