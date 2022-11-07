@@ -11,13 +11,13 @@ Aimmlab NAS setting
 
 
 ## NAS 安裝
-Step 1：安裝硬體，硬體安裝手冊：Hardware Install Manual  
-Step 2：安裝DSM，安裝方式：DSM Installation  
-  •	進入同一區域網路的方式   
-    1.	將NAS網路孔插上WiFi路由器的網路孔，並用其他電腦連上此WiFi或是插上WiFi路由器的其他接孔  
-    2.	將NAS和其他電腦接上同一台路由器或是Switch 
-Step 3：安裝完DSM，在控制台→共用資料夾→新增即可依需求將硬碟分割成需要的儲存區(目前組態為4顆10TB HDD RAID 6 共20TB)  
-Step 4：在控制台→檔案服務→NFS，啟用NFS系統，方便接下來和server對接 
+* Step 1：安裝硬體，硬體安裝手冊：Hardware Install Manual  
+* Step 2：安裝DSM，安裝方式：DSM Installation  
+*   •	進入同一區域網路的方式   
+*   1.	將NAS網路孔插上WiFi路由器的網路孔，並用其他電腦連上此WiFi或是插上WiFi路由器的其他接孔  
+*   2.	將NAS和其他電腦接上同一台路由器或是Switch 
+* Step 3：安裝完DSM，在控制台→共用資料夾→新增即可依需求將硬碟分割成需要的儲存區(目前組態為4顆10TB HDD RAID 6 共20TB)  
+* Step 4：在控制台→檔案服務→NFS，啟用NFS系統，方便接下來和server對接 
 
 
 ## Server設定
