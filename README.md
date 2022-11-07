@@ -1,12 +1,13 @@
 # NAS
 Aimmlab NAS setting
 
-
+  
 ## NAS 規格
 •	主機：Synology DS1621xs+ * 1 
 •	Cache SSD： Kingston KC2500 NVMe PCIe SSD1000GB(1TB) 固態硬碟 (SKC2500M8/1000G) * 2  
 •	ECC RAM：Synology群暉科技 D4ECSO 2666 16G 記憶體 * 2  
 •	Disk：WD【金標】10TB 3.5吋企業級硬碟(WD102KRYZ) * 6  
+
 
 
 ## NAS 安裝
