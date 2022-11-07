@@ -22,7 +22,7 @@ Aimmlab NAS setting
 
 ## Server設定
 https://kb.synology.com/zh-hk/DSM/tutorial/How_to_access_files_on_Synology_NAS_within_the_local_network_NFS#x_anchor_id7  
-依照上述指示安裝完後進入NAS的介面，將共用資料夾的NFS權限進行調整，目前是調整為將NFS權限統一歸類為guest，並以guest來進行資料夾讀寫權限的管理即可。
+* 依照上述指示安裝完後進入NAS的介面，將共用資料夾的NFS權限進行調整，目前是調整為將NFS權限統一歸類為guest，並以guest來進行資料夾讀寫權限的管理即可。
 
 
 ## NAS外網連接
