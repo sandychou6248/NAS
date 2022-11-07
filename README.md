@@ -16,8 +16,6 @@ Step 2：安裝DSM，安裝方式：DSM Installation
     2.	將NAS和其他電腦接上同一台路由器或是Switch
 Step 3：安裝完DSM，在控制台→共用資料夾→新增即可依需求將硬碟分割成需要的儲存區(目前組態為4顆10TB HDD RAID 6 共20TB)
 Step 4：在控制台→檔案服務→NFS，啟用NFS系統，方便接下來和server對接
-帳號：nas-admin
-密碼：ED206nas
 
 ## Server設定
 https://kb.synology.com/zh-hk/DSM/tutorial/How_to_access_files_on_Synology_NAS_within_the_local_network_NFS#x_anchor_id7
