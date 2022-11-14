@@ -1,4 +1,4 @@
-# NAS管理員
+# NAS管理
 Aimmlab NAS setting
 
   
